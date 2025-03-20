@@ -1,0 +1,17 @@
+version: '3'
+services:
+  node1:
+    build: .
+    container_name: node1
+    networks:
+      - distributed_network
+
+  node2:
+    build: .
+    container_name: node2
+    networks:
+      - distributed_network
+
+networks:
+  distributed_network:
+    driver: bridge
