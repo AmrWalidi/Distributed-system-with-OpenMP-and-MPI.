@@ -12,6 +12,7 @@ services:
     networks:
       - distributed_network
 
+
 networks:
   distributed_network:
     driver: bridge
