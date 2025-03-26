@@ -41,4 +41,4 @@ MPI ve OpenMP'nin her biri, hesaplama ortamına bağlı olarak güçlü ve zayı
 
 ## Proje Youtube Videosu
 
-[text](https://youtu.be/xHIdq3pzGYY)
+video: [OpenMP ve MPI ile dağıtık sistem.](https://youtu.be/xHIdq3pzGYY)
