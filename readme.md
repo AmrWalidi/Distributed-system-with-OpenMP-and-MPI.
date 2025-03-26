@@ -38,3 +38,7 @@ Paralel bilgi işlem, büyük ölçekli hesaplamaları verimli bir şekilde ele 
 
 
 MPI ve OpenMP'nin her biri, hesaplama ortamına bağlı olarak güçlü ve zayıf yönlere sahiptir. MPI, yüksek ölçeklenebilirlikle dağıtılmış hesaplamada öne çıkarken, OpenMP paylaşımlı bellekli, çok iş parçacıklı uygulamalar için avantajlıdır. Doğru yaklaşımı seçmek, donanım kısıtlamalarına, veri boyutuna ve uygulama gereksinimlerine bağlıdır.
+
+## Proje Youtube Videosu
+
+[text](https://youtu.be/xHIdq3pzGYY)
